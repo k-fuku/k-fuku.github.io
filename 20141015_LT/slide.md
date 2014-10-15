@@ -11,12 +11,12 @@
 ###上期：リサーチ／事業計画書策定
 ###下期：ＰＯＣ／デモ作成
 
-資料：00金シ33/devops
-
 --
 
 ## Solutions
 ![Solutions](solution.jpg)
+
+資料：00金シ33/devops
 
 --
 
