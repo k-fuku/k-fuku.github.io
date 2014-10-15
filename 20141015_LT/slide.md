@@ -15,6 +15,10 @@
 
 --
 
+![Solutions](solution.jpg)
+
+--
+
 ##イノベーションに必要な４Ｐ
 1. Projects
 2. Peers
