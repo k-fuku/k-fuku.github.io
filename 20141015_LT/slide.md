@@ -2,8 +2,8 @@
 
 ---
 
-##１．スタートアップメンバ募集
-##２．あらたな情報共有のかたち
+###１．スタートアップメンバ募集
+###２．あらたな情報共有のかたち
 
 --
 ##事業化
@@ -32,11 +32,13 @@
 
 --
 
-##２．新技術  
-- chef(ruby), ansible(python)
-- AWS(cloudformation)
-- OpenStackHeat, Terraform
-- git, jenkins
+##２．新技術
+```
+chef(ruby), ansible(python)
+AWS(cloudformation)
+OpenStackHeat, Terraform
+git, jenkins
+```
 
 --
 
@@ -61,14 +63,16 @@
 --
 
 ## あらたな情報共有
-最終目標は「設計書、手順書をＷＥＢ共有」
-でも、セキュリティ遵守やアップロードのワークフローを
-考えるとちょっとハードルが高い・・・
+最終目標：設計書、手順書をＷＥＢ共有  
+でも、セキュリティ遵守やアップロードの  
+ワークフローを考えるとちょっとハードルが高い・・・
 
 --
 
-とっかかりとして、検索サイトを立ち上げました（on AWS）
-- TXT,HTMLだけでなく、PDF,PPT,DOC,XLSも全文検索可能
+とっかかりとして、  
+検索サイトを立ち上げました（on AWS）
+
+- TXT,HTMLだけでなくPDF,PPT,DOC,XLSも全文検索可能
 - エンジニアＷＥＢのクローリング（認証サイトも網羅）
 - Digest認証
 
@@ -80,3 +84,11 @@
 ---
 
 # Thank you!
+
+ちなみにこのプレゼンは
+```
+Github
+Javascript(Reveal.js/websocket)
+Markdown
+```
+で作っています。
