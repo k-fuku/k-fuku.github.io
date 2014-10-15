@@ -33,12 +33,10 @@
 --
 
 ##２．新技術
-```
-chef(ruby), ansible(python)
-AWS(cloudformation)
-OpenStackHeat, Terraform
-git, jenkins
-```
+- chef(ruby),　ansible(python)
+- AWS(cloudformation)
+- OpenStackHeat,　Terraform
+- git,　jenkins
 
 --
 
@@ -51,19 +49,24 @@ git, jenkins
 
 ## 情報共有　これまでの課題
 １．情報共有は人とのつながりが基本
+
 - 入手しやすさに個人差がある
 
 ２．イントラにアクセス困難、遅い
+
 - 結局イントラは使わない
 
 ３．ググるのにも限界あり
+
 - ノイズ多い
 - 認証必要なサイトはクローリングできない
 
 --
 
 ## あらたな情報共有
-最終目標：設計書、手順書をＷＥＢ共有  
+*最終目標：設計書、手順書をＷＥＢ共有*  
+
+
 でも、セキュリティ遵守やアップロードの  
 ワークフローを考えるとちょっとハードルが高い・・・
 
